@@ -1,0 +1,7 @@
+.users-list {
+    display: flex;
+}
+
+.user-name {
+    margin-right: 3rem;
+}
